@@ -43,6 +43,7 @@ function App() {
 
   }
 
+  fetchFromDb();
   return (
     <div className="App">
       <header className="App-header">
